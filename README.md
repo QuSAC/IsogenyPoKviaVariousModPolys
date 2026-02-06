@@ -1,2 +1,2 @@
 # IsogenyPoKviaVariousModPolys
-Sage scripts for the papers "More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials" ([ePrint: 2024/1738](https://eprint.iacr.org/2024/1738)) and "On the Use of Atkin and Weber Modular Polynomials in Isogeny Proofs of Knowledge" (on ePrint soon).
+Sage scripts for the papers "More Efficient Isogeny Proofs of Knowledge via Canonical Modular Polynomials" ([ePrint: 2024/1738](https://eprint.iacr.org/2024/1738)) and "On the Use of Atkin and Weber Modular Polynomials in Isogeny Proofs of Knowledge" ([ePrint: 2026/193](https://eprint.iacr.org/2026/193)).
